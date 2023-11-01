@@ -1,2 +1,2 @@
-# OlaMundo
- Primeiro Repositório Versionado
+# Olá, Mundo
+ Primeiro Repositório Versionado | Curso de Git e GitHub
