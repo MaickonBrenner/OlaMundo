@@ -1,0 +1,17 @@
+CSS: 
+h1 {
+    text-align: top;
+    color: greenyellow;
+}
+
+h2 {
+    text-align: center;
+    color: white;
+}
+
+HTML: 
+<h1>Olá, Mundo!</h1>  
+    <h2>Lorem ipsum, dolor sit amet consectetur adipisicing elit. 
+        Repellat ad consequuntur, repellendus voluptatum atque, 
+        deleniti itaque, nulla provident esse porro dolore asperiores 
+        iste quos repudiandae odio mollitia illum similique adipisci.</h2>  
