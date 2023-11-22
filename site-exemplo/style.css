@@ -18,7 +18,7 @@ header {
     left: 0;
     width: 88%; 
     padding: 30px 100px;
-    background: #79c7e5; /*#31626e, #39552a, #307384, #79c7e5*/
+    /*background: #79c7e5; /*#31626e, #39552a, #307384, #79c7e5*/
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -77,4 +77,11 @@ header {
     background-position: center;
     background-attachment: fixed;
 
+}
+
+#text {
+    position: absolute;
+    font-size: 5cm;
+    color: white;
+    text-shadow: 2px 4px 5px #333;
 }
